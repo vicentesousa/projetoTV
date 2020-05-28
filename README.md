@@ -45,23 +45,23 @@ Se você usar algum material disponibilizado aqui, por favor, citar os seguintes
 
 
 ## Modelos de Documentos
-### [OFÍCIO PARA REQUISIÇÃO DE CONSIGNAÇÃO DE CANAL DE TELEVISÃO DIGITAL]()
-### [FORMULÁRIO DE INFORMAÇÕES TÉCNICAS]()
-### [MODELO DE DECLARAÇÃO NO CASO DA OCORRÊNCIA DE INTERFERÊNCIA EM ESTAÇÕES DE RADIODIFUSÃO E DE TELECOMUNICAÇÕES]()
-### [MODELO DE DECLARAÇÃO DE CONFORMIDADE COM OS NÍVEIS DE IRRADIAÇÃO NÃO IONIZANTE]()
-### [MODELO DE DECLARAÇÃO DE PROTEÇÃO A AERÓDROMOS]()
-### [MODELO DE DECLARAÇÃO DE ATENDIMENTO ÀS NORMAS VIGENTES]()
+### [OFÍCIO PARA REQUISIÇÃO DE CONSIGNAÇÃO DE CANAL DE TELEVISÃO DIGITAL](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_A.pdf)
+### [FORMULÁRIO DE INFORMAÇÕES TÉCNICAS](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_B.pdf)
+### [MODELO DE DECLARAÇÃO NO CASO DA OCORRÊNCIA DE INTERFERÊNCIA EM ESTAÇÕES DE RADIODIFUSÃO E DE TELECOMUNICAÇÕES](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_C.pdf)
+### [MODELO DE DECLARAÇÃO DE CONFORMIDADE COM OS NÍVEIS DE IRRADIAÇÃO NÃO IONIZANTE](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_D.pdf)
+### [MODELO DE DECLARAÇÃO DE PROTEÇÃO A AERÓDROMOS](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_E.pdf)
+### [MODELO DE DECLARAÇÃO DE ATENDIMENTO ÀS NORMAS VIGENTES](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_F.pdf)
 
 ## Documentos da TVU 
-### [ESPECIFICAÇÕES TÉCNICAS DO SISTEMA IRRADIANTE DA TVU]()
-### [ESPECIFICAÇÕES TÉCNICAS DA LINHA DE TRANSMISSÃO UTILIZADA NA ESTAÇÃO DA TVU]()
-### [ESPECIFICAÇÕES TÉCNICAS DO TRANSMISSOR DA TVU]()
-### [ESPECIFICAÇÕES TÉCNICAS DA ANTENA UTILIZADA PARA AS MEDIÇÕES DE SINAL]()
+### [ESPECIFICAÇÕES TÉCNICAS DO SISTEMA IRRADIANTE DA TVU](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_G.pdf)
+### [ESPECIFICAÇÕES TÉCNICAS DA LINHA DE TRANSMISSÃO UTILIZADA NA ESTAÇÃO DA TVU](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_H.pdf)
+### [ESPECIFICAÇÕES TÉCNICAS DO TRANSMISSOR DA TVU](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_I.pdf)
+### [ESPECIFICAÇÕES TÉCNICAS DA ANTENA UTILIZADA PARA AS MEDIÇÕES DE SINAL](https://github.com/vicentesousa/projetoTV/blob/master/docs/Anexo_J.pdf)
 
 ## Documento da pesquisa de satisfação e pontos de medição
-### [PESQUISA DE PERCEPÇÃO DOS USUÁRIOS DE TELEVISÃO DIGITAL REALIZADA NA INTERNET]()
-### [PONTOS MEDIDOS EM NATAL/RN]()
-### [PLANILHA UTILIZADA NA MEDIÇÃO]()
+### [PESQUISA DE PERCEPÇÃO DOS USUÁRIOS DE TELEVISÃO DIGITAL REALIZADA NA INTERNET](https://github.com/vicentesousa/projetoTV/blob/master/docs/pesquisa.pdf)
+### [PONTOS MEDIDOS EM NATAL/RN](https://github.com/vicentesousa/projetoTV/blob/master/docs/Pontos_medicoes.pdf)
+### [PLANILHA UTILIZADA NA MEDIÇÃO](https://github.com/vicentesousa/projetoTV/blob/master/docs/planilha_medicao.pdf)
 
 
 
